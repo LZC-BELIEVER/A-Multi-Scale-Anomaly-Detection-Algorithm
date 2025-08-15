@@ -1,7 +1,7 @@
 # A Multi-Scale Anomaly Detection Algorithm (AICE 2025)
 
 **Design of a Multi-Scale Flight Parameter Data Anomaly Detection Algorithm**
-[[Paper]](img/design.pdf)
+[[Paper]](paper/Design of a Multi-Scale Flight Parameter Data Anomaly Detection Algorithm.pdf)
 
 
 - The project is based on [DCdetector](https://github.com/DAMO-DI-ML/KDD2023-DCdetector).
@@ -65,5 +65,5 @@ bash ./scripts/UCR.sh
 - We appreciate the original DCdetector code: https://github.com/DAMO-DI-ML/KDD2023-DCdetector
 
 ## Poster
-- The poster showed on AICE(2025): [[Poster]](img/poster.pdf)
+- The poster showed on AICE(2025): [[Poster]](paper/poster.pdf)
 
