@@ -1,4 +1,4 @@
-# A Multi-Scale Anomaly Detection Algorithm (AICE 2025)
+# A Multi-Scale Anomaly Detection Algorithm (AICE 2025 Accepted)
 
 **Design of a Multi-Scale Flight Parameter Data Anomaly Detection Algorithm**
 [[Paper]](paper/paper.pdf)
